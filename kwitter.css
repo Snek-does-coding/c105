@@ -1,0 +1,20 @@
+#logOut{
+    background-color:red;
+    font-size:20px;
+    float:right;
+    margin-right:20px;
+    margin-top:15px;
+    color:whitesmoke;
+}
+
+#addRoom{
+    border-color:black;
+    background-color:#4169e1;
+    color:white;
+    border-radius:10px;
+}
+
+#body
+{
+background-image: linear-gradient(to right top, #aff0f0, #8fdddf, #a9eed1, #c9f5d9, #3cd184, #1fb25f);
+}
